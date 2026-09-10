@@ -1,0 +1,12 @@
+﻿namespace Encapsulamento
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Pessoas p = new Pessoas();
+            p.Nome = "Rafaela";
+            Console.WriteLine(p.Nome);
+        }
+    }
+}
