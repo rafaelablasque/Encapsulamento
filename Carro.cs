@@ -30,5 +30,6 @@ namespace Encapsulamento
         public int VelocidadeAtual
         {
             get { return _VELOCIDADEATUAL; }
+        }
     }
 }
